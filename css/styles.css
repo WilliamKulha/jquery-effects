@@ -1,0 +1,14 @@
+body {
+  height:100vh
+}
+
+
+.extend {
+  height:100vh
+}
+
+hr {
+  background-size: 4px;
+  border-top: 4px solid #2F4F4F;
+  border-color:#2F4F4F;
+}
