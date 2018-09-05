@@ -8,6 +8,13 @@ $(document).ready(function (){
   $("#worldclick").click(function(){
     $("#worldpanel").slideDown();
   });
-
-
+  $("#cuteclose").click(function(){
+    $("#cutepanel").slideUp();
+  });
+  $("#trashclose").click(function(){
+    $("#trashpanel").slideUp();
+  });
+  $("#worldclose").click(function(){
+    $("#worldpanel").slideUp();
+  });
 });
